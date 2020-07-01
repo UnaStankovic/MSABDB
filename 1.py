@@ -1,0 +1,1 @@
+#This file will prepare the data for cassandra import
